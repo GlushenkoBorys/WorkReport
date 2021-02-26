@@ -7,3 +7,4 @@ Created a GitPractice repository. In it, I created 4 commits for the practice of
 Did a rollback from 4 commits to 2 (a new branch was created when master1 was rolled back) at 21.45
 tea break at 21.50
 replaying a rollback to a specific commit at 22.50
+Did a rollback from 3 commits to 1 (a new branch was created when MyText22 was rolled back) at 23.30
