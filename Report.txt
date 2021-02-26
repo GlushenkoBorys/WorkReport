@@ -2,3 +2,4 @@
 start of work at 19.00
 installing AnyDesk software on my computer at 19.15
 practice with the AnyDesk program at 19.25
+learning to rollback commits at 19.55
