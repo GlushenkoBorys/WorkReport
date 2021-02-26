@@ -5,3 +5,4 @@ practice with the AnyDesk program at 19.25
 learning to rollback commits at 19.55
 Created a GitPractice repository. In it, I created 4 commits for the practice of rollbacks at 20.30
 Did a rollback from 4 commits to 2 (a new branch was created when master1 was rolled back) at 21.45
+tea break at 21.50
