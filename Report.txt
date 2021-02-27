@@ -9,3 +9,6 @@ tea break at 21.50
 replaying a rollback to a specific commit at 22.50
 Did a rollback from 3 commits to 1 (a new branch was created when MyText22 was rolled back) at 23.30
 I finished work at 23.35
+
+27.02.2021
+start of work at 15.00
