@@ -62,6 +62,9 @@ I finished work at 23.40
 start of work at 09.05
 learn words at 09.05
 tea break at 10.45
+start of work at 11.25
+compiler for c
+
 
 
 
