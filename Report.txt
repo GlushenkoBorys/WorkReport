@@ -329,3 +329,5 @@ start of work at 12.30
 repetition of words
 read the book
 took a break at 15.30
+start of work at 18.00
+read the book
