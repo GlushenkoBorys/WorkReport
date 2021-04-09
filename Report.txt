@@ -385,3 +385,5 @@ start of work at 13.00
 repetition of words
 read the book
 took a break at 15.00
+start of work at 18.00
+I am making a bootable USB stick
