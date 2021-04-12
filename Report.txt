@@ -405,3 +405,5 @@ took a break at 21.00
 start of work at 11.00
 read the book
 took a break at 15.00
+start of work at 17.00
+I am doing laboratory work
