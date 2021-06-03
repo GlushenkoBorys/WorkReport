@@ -565,5 +565,6 @@ read the book at 14.10
 took a break at 16.00
 I'm going to a meeting with Alexander at 18.00
 read the book at 20.10
+I finished work at 22.50
 
 
