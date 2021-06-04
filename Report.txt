@@ -573,6 +573,7 @@ repetition of words
 read the book at 12.40
 took a break at 16.00
 read the book at 18.00
+I finished work at 21.40
 
 
 
