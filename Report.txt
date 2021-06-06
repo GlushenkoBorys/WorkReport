@@ -590,3 +590,4 @@ start of work at 12.00
 read the book
 I'm doing my homework at 15.00
 took a break at 16.00
+I'm doing my homework at 18.30
