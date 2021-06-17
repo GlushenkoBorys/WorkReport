@@ -688,3 +688,5 @@ repetition of words (irregular verbs)
 12:00 start of work
 12:00 I read Alexander's assignments
 13:20 read the book (English book №7, page 30)
+16:30 stop read the book (English book №7, page 45)
+16:30 took a break
