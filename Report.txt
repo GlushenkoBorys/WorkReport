@@ -699,3 +699,5 @@ repetition of words (irregular verbs)
 12:00 repetition of words (irregular verbs)
 13:00 I studied with Alexander (passive voice)
 14:00 read the book (English book №7, page 60)
+18:00 stop read the book (English book №7, page 75)
+18:00 took a break
