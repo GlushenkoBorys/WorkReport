@@ -712,3 +712,5 @@ repetition of words (irregular verbs)
       (Passive Voice)
 14:30 I finished studying with Alexander
 14:30 read the book (English book №7, page 80)
+17:00 stop read the book (English book №7, page 90)
+17:00 took a break
