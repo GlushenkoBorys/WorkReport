@@ -768,3 +768,4 @@ repetition of words (irregular verbs)
 13:30 read the book (English book №8, page 28)
 16:00 stop read the book (English book №8, page 37)
 16:00 took a break
+19:00 read the book (English book №8, page 37)
