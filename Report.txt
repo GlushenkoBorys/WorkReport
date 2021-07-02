@@ -814,3 +814,4 @@ repetition of words (irregular verbs)
 16:00 took a break
 18:00 read the book
 19:15 took a break
+20:00 read the book
