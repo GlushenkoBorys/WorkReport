@@ -822,3 +822,6 @@ repetition of words (irregular verbs)
 12:00 start of work
 12:00 I am reading the information given to me by Alexander
 12:40 repetition of words (irregular verbs)
+13:10 I studied with Alexander
+13:50 stop studied with Alexander
+13:50 took a break
