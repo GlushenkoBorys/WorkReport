@@ -836,3 +836,6 @@ repetition of words (irregular verbs)
 12:00 start of work
 12:00 repetition of words (irregular verbs)
 13:30 the book (English book №8, page 95)
+15:00 I studied with Alexander
+16:00 stop studied with Alexander
+16:00 took a break
