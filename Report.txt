@@ -839,3 +839,6 @@ repetition of words (irregular verbs)
 15:00 I studied with Alexander
 16:00 stop studied with Alexander
 16:00 took a break
+17:00 studied with Alexander
+18:30 stop studied with Alexander
+18:30 took a break
