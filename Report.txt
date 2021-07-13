@@ -914,3 +914,5 @@ repetition of words (irregular verbs)
 16:00 stop read the book (English book №9, page 12)
 16:00 took a break
 18:20 read the book (English book №9, page 12)
+21:15 stop read the book (English book №9, page 17)
+21:15 I finished work
