@@ -935,3 +935,5 @@ repetition of words (irregular verbs)
 12:00 start of work
 12:00 repetition of words (irregular verbs)
 16:15 read the book (English book №9, page 23)
+21:20 stop read the book (English book №9, page 30)
+21:20 I finished work
