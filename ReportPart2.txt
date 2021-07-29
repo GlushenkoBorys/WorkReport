@@ -37,4 +37,5 @@
 12:10 I am watching the "Intuit" course
 16:00 stop watching the "Intuit" course (lesson 11)
 16:00 take a break
+19:00 watching the "Intuit" course (lesson 11)
 
