@@ -287,3 +287,4 @@
 12:00 start of work
 12:00 read the book (English book №9)
 14:00 I am coding
+17:00 take a break
