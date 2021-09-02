@@ -300,7 +300,7 @@
 18:30 I am coding
 23:00 I finished work
 
-01.09.2021
+02.09.2021
 10:10 start of work
 10:10 read the book (English book №9)
 13:45 take a break
@@ -308,3 +308,7 @@
 17:20 take a break
 19:00 I am coding
 23:00 I finished work
+
+01.09.2021
+10:10 start of work
+10:10 read the book (English book №9)
