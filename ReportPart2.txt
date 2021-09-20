@@ -450,5 +450,6 @@ I was at the wedding of Denis Kornev
 13:45 take a break
 14:45 read the book (English book №9) + practice screen program
 18:00 take a break
-19:00 I am working (epam)
+19:00 I am working (epam) 
+21:00 practice screen program
 
