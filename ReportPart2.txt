@@ -517,5 +517,6 @@ I was at the wedding of Denis Kornev
 11:00 I am coding (epam)
 14:00 take a break
 15:00 I am coding (epam) + read the Metanit
+18:25 take a break
 
 
