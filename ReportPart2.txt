@@ -587,3 +587,4 @@ I was at the wedding of Denis Kornev
 15:00 I am coding (epam)
 17:00 take a break
 18:00 I have lesson Epam
+20:00 I am coding (epam) + lesson with Yura
