@@ -589,3 +589,7 @@ I was at the wedding of Denis Kornev
 18:00 I have lesson Epam
 20:00 I am coding (epam) + lesson with Yura
 23:30 I finished work
+
+06.10.2021
+11:00 start of work
+11:00 I am coding task Aggregation (epam)
