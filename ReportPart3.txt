@@ -49,3 +49,7 @@
 16:00 I am coding Matrix (Epam)
 23:00 I finished work(I done 1 test in Matrix)
 
+15.10.2021
+12:00 start of work
+12:00 I am writing a program for Yura
+
