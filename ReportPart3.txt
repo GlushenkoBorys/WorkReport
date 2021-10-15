@@ -53,4 +53,5 @@
 12:00 start of work
 12:00 I am writing a program for Yura
 13:00 I am coding Matrix (Epam)
+17:30 take a brake
 
