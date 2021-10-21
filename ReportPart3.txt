@@ -103,3 +103,4 @@
 16:00 I am working
 18:00 I have lesson (Epam)
 21:00 I am working
+21:40 take a brake
