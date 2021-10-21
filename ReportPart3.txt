@@ -105,3 +105,4 @@
 21:00 I am working
 21:40 take a brake
 22:30 I am working
+00:10 I finished work
